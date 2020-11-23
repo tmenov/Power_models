@@ -13,17 +13,28 @@ Gas pumping is carried out only after the glue has completely cured.
 After pumping, the stainless steel capillary tube is clamped and sealed by precision arc welding.
 
 Description of the red bar.
+The red bar is made of Th-232 in the Model-0_v.0 version or from Am-241 in the Model-0_v.1 version.
 
 Description of the yellow cylinder.
+The yellow cylinder is made of B + Be alloy. It is a solid mesh with round holes.
 
 Description of the green cylinder.
+The green cylinder is made of Te + V + Mg + Ni alloy. It is a solid mesh with even hexagonal holes along the entire surface.
 
 Description of the blue cylinder.
+The blue cylinder is made of Te + V + Mg + Ni alloy. It is a solid cylinder.
 
 Description of current collectors.
+The current is carried out by carbon electrodes. One of the carbon electrodes has the shape of a rod and touches the red rod closely. 
+The second carbon electrode has a core ring with a rod. 
+The ring is flush with the green cylinder in Model -0_v.1 and the green and blue cylinder in Model-0_v.0. 
+Both rods of carbon electrodes are glued into sleeves, which in turn are glued to the bottle cap.
 
 Brief characteristics of the device.
 The average duration of continuous operation is 400 years.
 Average voltage at 10,000 volts.
 Average permissible current at the level of 500 mA 
 (to be specified depending on the configuration of the green cylinder at a level of up to 10A).
+
+Devices made in a similar way and from similar alloys (green and blue cylinders) were used by representatives of the planet Tashig 
+when localizing a cloud to reduce radioactive contamination during the accident at the Chernobyl nuclear power plant during April 26-30, 1986.
