@@ -1,6 +1,4 @@
 # Power_models
 ASAP
 Financial manager of Power_model projects 
-Izil Izilov
-izilov@gmail.com
-+972503036640
+Project Consultant: Mikhail Gelbert, Ph.D., tel.+1(416)271-6580, e-mail:b_gelbert@hotmail.com
